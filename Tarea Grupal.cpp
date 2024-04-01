@@ -8,11 +8,11 @@ int main() {
 
     // Mostrar el menú de opciones al usuario
     cout << "Seleccione una opcion:" << endl;
-    cout << "1. Ejecutar Programa 1" << endl;
-    cout << "2. Ejecutar Programa 2" << endl;
-    cout << "3. Ejecutar Programa 20" << endl;
-    cout << "4. Ejecutar Programa 1" << endl;
-    cout << "5. Ejecutar Programa 2" << endl;
+    cout << "1. Ejecutar Programa Suma,resta,muliplicacion y division" << endl;
+    cout << "2. Ejecutar Programa Par e impar" << endl;
+    cout << "3. Ejecutar Programa Palindromo" << endl;
+    cout << "4. Ejecutar Programa Conversion" << endl;
+    cout << "5. Ejecutar Programa Arabigos a Romanos" << endl;
     cout << "6. Ejecutar Programa 1" << endl;
     cout << "7. Ejecutar Programa 2" << endl;
     cout << "8. Ejecutar Programa 1" << endl;
@@ -34,27 +34,27 @@ int main() {
     // Ejecutar el programa correspondiente según la opción seleccionada
     switch (opcion) {
         case 1:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\Suma,resta,muliplicacion y division.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 2:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\Par e impar.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 3:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\Palindromo.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 4:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\Conversion.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 5:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\Arabigos a Romanos.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
