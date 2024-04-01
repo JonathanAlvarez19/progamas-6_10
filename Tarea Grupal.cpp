@@ -13,11 +13,11 @@ int main() {
     cout << "3. Ejecutar Programa Palindromo" << endl;
     cout << "4. Ejecutar Programa Conversion" << endl;
     cout << "5. Ejecutar Programa Arabigos a Romanos" << endl;
-    cout << "6. Ejecutar Programa 1" << endl;
-    cout << "7. Ejecutar Programa 2" << endl;
-    cout << "8. Ejecutar Programa 1" << endl;
-    cout << "9. Ejecutar Programa 2" << endl;
-    cout << "10. Ejecutar Programa 1" << endl;
+    cout << "6. Ejecutar Programa Numero a letra" << endl;
+    cout << "7. Ejecutar Programa num_letra_decimal" << endl;
+    cout << "8. Ejecutar Programa tabla multi" << endl;
+    cout << "9. Ejecutar Programa tabla multi 1_10" << endl;
+    cout << "10. Ejecutar Programa calculadora grafica" << endl;
     cout << "11. Ejecutar Programa Decimales a Binarios" << endl;
     cout << "12. Ejecutar Programa Decimales a Hexadecimales" << endl;
     cout << "13. Ejecutar Programa Crear Figuras Geometrias Basicas" << endl;
@@ -59,27 +59,27 @@ int main() {
             }
             break;
         case 6:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\Numero a letra.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 7:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\num_letra_decimal.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 8:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\tabla multi.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 9:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\tabla multi 1_10.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 10:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\calculadora grafica.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
