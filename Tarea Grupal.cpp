@@ -23,11 +23,11 @@ int main() {
     cout << "13. Ejecutar Programa Crear Figuras Geometrias Basicas" << endl;
     cout << "14. Ejecutar Programa Mover un Punto en Pantalla" << endl;
     cout << "15. Ejecutar Programa Cajero Automatico" << endl;
-    cout << "16. Ejecutar Programa 2" << endl;
-    cout << "17. Ejecutar Programa 1" << endl;
-    cout << "18. Ejecutar Programa 2" << endl;
-    cout << "19. Ejecutar Programa 2" << endl;
-    cout << "20. Ejecutar Programa 20" << endl;
+    cout << "16. Ejecutar Programa hipotenusa" << endl;
+    cout << "17. Ejecutar Programa calculadora" << endl;
+    cout << "18. Ejecutar Programa calzado" << endl;
+    cout << "19. Ejecutar Programa cursos" << endl;
+    cout << "20. Ejecutar Programa usuario de consola" << endl;
     cout << "Ingrese el numero de la opcion: ";
     cin >> opcion;
 
@@ -109,27 +109,27 @@ int main() {
             }
             break;
         case 16:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\hipotenusa.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 17:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\calculadora.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 18:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\calzado.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 19:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\cursos.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 20:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\usuario de consola.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
