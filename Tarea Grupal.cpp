@@ -59,27 +59,27 @@ int main() {
             }
             break;
         case 6:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\Numero a letra.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 7:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\num_letra_decimal.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 8:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\tabla multi.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 9:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\tabla multi 1_10.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
         case 10:
-            if (system("C:\\Proyecto_Grupal\\PrograX.exe") != 0) {
+            if (system("C:\\Proyecto_Grupal\\calculadora grafica.exe") != 0) {
                 cout << "Programa no encontrado." << endl;
             }
             break;
